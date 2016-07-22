@@ -1,0 +1,7 @@
+"* path","* content","* id","* title","* title_breadcrumb","* title_h1","* title_label","* title_full","* logical_path","* list_flg","* layout","* orderby","* keywords","* description","* category_top_flg","* custom1","* custom2","* **delete_flg","* role"
+"/index.html",,,"ホーム",,,,,,"1","top",,,,,,,,
+"/sample_pages/page2/index.html",,,"サンプルページ2",,,,,,"1",,,"sample, サンプル","このページはPxFWのサンプルコードとして予め用意されたものです。サンプルが不要であれば、sample_pagesディレクトリとともに削除してください。","1",,,,
+"/sample_pages/tplsample/page1/index.html","/common/templates/tplsample.html",,"テンプレートサンプル1",,,,,"/sample_pages/page2/index.html","1",,,,,,"1","A",,
+"/sample_pages/tplsample/page2.html","/common/templates/tplsample.html",,"テンプレートサンプル2",,,,,"/sample_pages/page2/index.html","1",,,,,,"2","B",,
+"/sample_pages/tplsample/page3/index.html","/common/templates/tplsample.html",,"テンプレートサンプル3",,,,,"/sample_pages/page2/index.html","1",,,,,,"3","C",,
+"/sample_pages/tplsample/category1/page4/page.html","/common/templates/tplsample.html",,"テンプレートサンプル4",,,,,"/sample_pages/page2/index.html","1",,,,,,"4","D",,
