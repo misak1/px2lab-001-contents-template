@@ -97,6 +97,8 @@ return call_user_func( function(){
 		'*/.git/*' => 'ignore' ,
 		'*/.gitignore' => 'ignore' ,
 
+		'/common/templates/tplsample.html' => 'ignore' ,
+
 		'*.html' => 'html' ,
 		'*.htm' => 'html' ,
 		'*.css' => 'css' ,
