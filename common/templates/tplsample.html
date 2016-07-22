@@ -1,0 +1,7 @@
+<div>
+    <p>このコンテンツは、テンプレートとして複数のページで使われています。</p>
+    <p>このページのカスタム項目1は、 <code><?= htmlspecialchars( $px->site()->get_current_page_info('custom1') ); ?></code> です。</p>
+    <p>このページのカスタム項目2は、 <code><?= htmlspecialchars( $px->site()->get_current_page_info('custom2') ); ?></code> です。</p>
+    <p><img src="./tplsample_files/images/coffee_150x200.jpg" /></p>
+    <p><a href="<?= htmlspecialchars( $px->href('') ); ?>">トップページへ遷移</a></p>
+</div>
